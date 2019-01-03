@@ -20,8 +20,6 @@ Pour s'aider, le joueur pourra ramasser des bonus en cours de jeu.
 - Code écrit en C++
 - Testé sous Linux (Fedora et Ubuntu)
 - Toutes les actions si-dessous se font dans un terminal à la racine du repértoire du projet
-- Se compile avec gcc avec la commande suivante : 
-	make
 
 Les répertoires "src", "obj", "bin" et "data" sont indispensable pour la compilation et l'exécution du jeu  
 
@@ -31,6 +29,11 @@ sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev
 ```
 
 ## Jouer au jeu
+
+Pour compiler le jeu utilisez la commande suivante :
+```
+make
+```
 	
 Pour lancer le jeu une fois compilé, tapez une des commandes suivantes :
 ```
