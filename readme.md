@@ -23,7 +23,7 @@ Pour s'aider, le joueur pourra ramasser des bonus en cours de jeu.
 - Se compile avec gcc avec la commande suivante : 
 	make
 
-Ps: Les répertoires "src", "obj", "bin" et "data" sont indispensable pour la compilation et l'exécution du jeu  
+Les répertoires "src", "obj", "bin" et "data" sont indispensable pour la compilation et l'exécution du jeu  
 
 Ce module a besoin de la librairie SDL2 pour fonctionner, sur Linux voici la commande pour installer la SDL :  
 ```
