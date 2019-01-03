@@ -1,0 +1,8 @@
+Pistolet 15 120 12 2.0 0.4
+Revolver 60 60 6 5.0 0.8
+Pistolet-Mitrailleur 8 240 20 1.4 0.05
+Mitraillette 20 180 30 2.0 0.1
+Kalachnikov 25 160 30 2.5 0.125
+Carabine 35 120 30 2.8 0.2
+Mitrailleuse 12 200 100 5.5 0.08
+Sniper 120 50 5 5.0 3.0
